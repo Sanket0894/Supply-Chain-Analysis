@@ -1,7 +1,50 @@
+# Supply Chain Data Analysis 
 
-## Supply Chain Analysis
-AtliQ Mart is a growing FMCG company that makes everyday products. They're based in Gujarat, India, and right now, they operate in three cities there. But they want to start selling their products in bigger cities over the next two years.
+## Overview
 
-Here's the issue: Some important customers didn't want to keep doing business with AtliQ Mart because they had problems with the service. It seems like sometimes the products they ordered didn't arrive on time or they didn't get everything they asked for. This made the customers unhappy.
+This project aims to provide insights and analytics for AtliQ Mart, a growing FMCG manufacturer in Gujarat, India, focused on improving its supply chain operations. The project focuses on tracking and improving the 'On-time Delivery (OT)' and 'In-full Delivery (IF)' performance for key customers.
 
-Now, AtliQ Mart wants to fix this problem before they start selling in more cities. They asked their supply chain team for help. The supply chain team decided to check every day how often they deliver things on time and in full to customers. They'll measure this using three things: 'On-time delivery (OT) %,' 'In-full delivery (IF) %,' and 'On-time in full (OTIF) %' for each customer. This way, they can make sure they're doing a good job and make customers happy
+## Table of Contents
+
+- [Background](#background)
+- [Project Objectives](#project-objectives)
+- [Data Sources](#data-sources)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Data Analysis](#data-analysis)
+- [Visualizations](#visualizations)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Background
+
+AtliQ Mart is expanding its operations to new cities and wants to ensure the highest level of service for its customers. To address previous service issues, the supply chain analytics team is using Power BI to monitor daily 'On-time Delivery (OT)' and 'In-full Delivery (IF)' rates for customers.
+
+## Project Objectives
+
+- Track daily 'OT' and 'IF' performance for each customer.
+- Compare the actual performance against target service levels.
+- Identify areas for improvement in the supply chain.
+- Ensure high customer satisfaction to support the company's expansion plans.
+
+## Data Sources
+
+- [Supply Chain Data]: The dataset is provided in resume project challenge #2 conducted by [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge).
+
+## Project Structure
+
+The project is organized into the following directories and files:
+
+- `data/`: Contains the raw data used for analysis.
+- `reports/`: Contains Power BI report files.
+- `README.md`: The document you are currently reading.
+
+## Getting Started
+
+Follow these steps to get started with the project:
+
+1. Clone this repository to your local machine.
+
+   ```shell
+   git clone https://github.com/yourusername/supply-chain-data-analysis.git
+
