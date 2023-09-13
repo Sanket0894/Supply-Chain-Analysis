@@ -25,7 +25,7 @@ AtliQ Mart is expanding its operations to new cities and wants to ensure the hig
 - Track daily 'OT' and 'IF' performance for each customer.
 - Compare the actual performance against target service levels.
 - Identify areas for improvement in the supply chain.
-- Ensure high customer satisfaction to support the company's expansion plans.
+- Ensure high customer satisfaction to support the company's expansion plans. 
 
 ## Data Sources
 
