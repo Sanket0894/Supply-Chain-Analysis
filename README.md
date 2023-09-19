@@ -39,12 +39,5 @@ The project is organized into the following directories and files:
 - `reports/`: Contains Power BI report files.
 - `README.md`: The document you are currently reading.
 
-## Getting Started
 
-Follow these steps to get started with the project:
-
-1. Clone this repository to your local machine.
-
-   ```shell
-   git clone https://github.com/yourusername/supply-chain-data-analysis.git
 
