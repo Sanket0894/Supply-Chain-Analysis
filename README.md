@@ -36,7 +36,11 @@ The primary goal of this project is to improve the on-time and in-full delivery 
 
 - **Data Import**: The Excel files imported into Power BI.
 - **Relationships**: Documented the relationships established between different data tables.
-- **Calculated Columns**: Explained the creation of calculated columns and their purpose.
+
+<img width="769" alt="Screenshot 2023-10-28 111712" src="https://github.com/Sanket0894/Supply-Chain-Analysis/assets/131572641/6c0650bb-6d49-4773-bec9-8f2928bdd701">
+
+  
+- **Calculated Columns**: Created calculated columns and measures to develop report.
 
 ## Dashboard Development in Power BI
 
