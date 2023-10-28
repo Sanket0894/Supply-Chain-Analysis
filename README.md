@@ -3,7 +3,7 @@
 ## Project Overview
 
 - **Project Name**: AtliQ Mart Supply Chain Analytics
-- **Challenge**: Resume Challenge by [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+- **Challenge**: Codebasics Resume Project Challenge by [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ### Objectives
 The primary goal of this project is to improve the on-time and in-full delivery performance of AtliQ Mart to retain key customers and enable the company's expansion plans. Key objectives include:
